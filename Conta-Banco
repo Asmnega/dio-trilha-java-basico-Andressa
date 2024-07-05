@@ -1,0 +1,7 @@
+echo "# dio-trilha-java-basico-Andressa" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Asmnega/dio-trilha-java-basico-Andressa.git
+git push -u origin main
